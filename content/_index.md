@@ -13,11 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      text: "Yijie Shen is an Assistant Professor in School of Physical and Mathematical Sciences & School of Electrical and Electronic Engineering, Nanyang Technological University. He was previously a Marie Curie Senior Research Fellow in Nanophotonics & Metamaterials Group (Nikolay I. Zheludev group) in Optoelectronics Research Centre (ORC), University of Southampton, Southampton, UK, funded by MULTIPLY Marie S.-Curie Postdoctoral Fellowships in Photonics. He received the Ph.D. degree in optical engineering at the Department of Precision Instrument, Tsinghua University, Beijing, China, in 2019. He received the B.S. degree in mechanical engineering and automation from South China University of Technology, Guangzhou, China, in 2015. During Mar. 2019 to Jun. 2019, he was invited as a visiting researcher in School of Physics: Structured Light Laboratory (Andrew Forbes group), University of the Witwatersrand (Wits University), Johannesburg, South Africa, and also invited as a visiting researcher in National Laser Centre, Council for Scientific and Industrial Research (CSIR), Pretoria, South Africa. He is a member of the Chinese Optical Society (COS) and Chinese Society of Theoretical and Applied Mechanics. He was an invited member of the Optical Society of America (OSA), specially a fellow member in the Systems and Instrumentation Group in which. He is an invited Affiliate Member of The International Institute for Sustainability with Knotted Chiral Meta Matter (SKCM2). He won the Wang Da-Heng Optics Award (COS, China) in 2019. He was recognized as an honorary Rosalind Member of London Journals Press in 2021. He is a national first-grade computer aided designer and cartographer in China. He won the IOP and OSA Outstanding Reviewer Awards in 2020. He is an Editorial Board Member and Advisory Panel Member of Journal of Optics. He is a guest editor in Communication Materials. He has published more than 70 papers in high-impact journals including Nature, Nature Photonics, Nature Communications, Light: Science & Applications, Laser & Photonics Reviews, Optica, ACS Photonics, Nanophotonics, etc., with over thousands citations."
     design:
       css_class: dark
       background:
